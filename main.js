@@ -3,7 +3,7 @@ const linksSocialMedia = {
   youtube: 'channel/UCvW_bugChdAxj_3zDs6qnwg',
   facebook: 'rihanna',
   instagram: 'larihnascimento',
-  twitter: 'lnascc'
+  twitter: 'lnasccc'
 }
 
 function changeSocialMediaLinks() {
